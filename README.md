@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td><strong>Specialized</strong></td>
-    <td>Reverse Engineering • Malware analysis • Bug hunting</td>
+    <td>Social Engineering • Reverse Engineering • Malware analysis • Bug hunting</td>
   </tr>
 </table>
 
